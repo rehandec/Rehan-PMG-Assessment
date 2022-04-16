@@ -1,4 +1,3 @@
-# Rehan-PMG-Assessment
 
 (Code checked in python for Windows OS)
 
